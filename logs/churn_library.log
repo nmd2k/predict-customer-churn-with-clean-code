@@ -1,0 +1,9 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - test_encoder_helper: mean categorical for churn successed
+root - INFO - test_perform_feature_engineering: Data succesfully split into training and testing
+churn_library - INFO - Initializing models
+churn_library - INFO - Models trained
+churn_library - INFO - Evaluation
+churn_library - INFO - Analyzing results
+churn_library - INFO - Finish
