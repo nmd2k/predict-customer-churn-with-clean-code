@@ -1,5 +1,9 @@
-"""library doc string"""
+'''The churn_library.py file contains 
+functions to train and evaluate the models for churn prediction.
 
+Author: Dung Nguyen Manh
+Date: 10/11/2023
+'''
 
 # import libraries
 import os
